@@ -38,7 +38,7 @@ pip install -r requirements. txt
 3. Run the script:
 
 ```sh
-python test/neural_network.py
+python Fashion-MNIST Neural Network Classifier/neural_network.py
 ```
 
 ## Usage
